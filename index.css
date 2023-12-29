@@ -1,0 +1,30 @@
+/* ClassAttendance.css */
+
+body {
+    background-color: gray;
+  }
+  
+  .container {
+    margin-top: 50px;
+  }
+  
+  .heading {
+    color: white;
+  }
+  
+  .form-label {
+    color: white;
+  }
+  
+  .btn-add {
+    background-color: green;
+  }
+  
+  .btn-delete {
+    background-color: red;
+  }
+  
+  .btn-save {
+    background-color: green; 
+  }
+  
