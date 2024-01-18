@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Sayfası</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            text-align: center;
+        }
+
+        img {
+            max-width: 100%;
+            height: 300px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        .clr{
+          text-align: left;
+          background-color: turquoise;
+          color: black;
+        }
+
+        .orta {
+          text-align: center;
+          line-height: 1.6;
+          margin-bottom: 15px;
+          background-color: gray;
+          color: black;
+        }
+
+        p.renk {
+            line-height: 1.6;
+            margin-bottom: 15px;
+            background-color: green;
+            text-align: left;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sefa Cüneyt Aksu</h1>
+    <img src="https://www.vektorler.com/wp-content/uploads/2020/03/48400295572.jpg" alt="foto">
+    <hr>
+    <p class="renk">Yönetim Bilişim sistemleri öğrencisiyim. 3.sınıfım ve öğrenmeye, bilgiye açık biriyim.
+    </p>
+    <hr>
+    <p class="orta">Necmettin Erbakan Üniversitesi.</p>
+    <hr>
+    <p class="renk">Merhaba dostlar! Bugün sizlere üniversite hayatım hakkında biraz sohbet etmek istiyorum. Üniversiteye başladığım ilk gün, kalbimde heyecan ve umut dolu bir duygu vardı. Bu yolculuk, sadece bilgi edinme sürecinden çok daha fazlasıydı. Üniversitenin koridorlarında dolaşmak, farklı insanlarla tanışmak ve kendimi keşfetmek için bir fırsat sunuyordu.
+
+Her ders, yeni bir macera ve öğrenme deneyimi oldu benim için. Geceleri kitaplar arasında kaybolmak, öğrendiklerimi hayata nasıl uygulayabileceğimi düşünmek beni motive etti. Zorlu dönemlerde bile, bu sürecin bana sağladığı değerli deneyimler sayesinde daha güçlü bir birey olma yolunda ilerledim.</p>
+
+<p class="clr">Tabii ki, üniversite hayatı sadece derslerle sınırlı değil. Sosyal etkinliklere katılmak, kulüplere dahil olmak ve farklı kültürleri keşfetmek benim için büyük bir zenginlik oldu. Bu deneyimler, sadece akademik bilgiyi değil, aynı zamanda hayatın renklerini de öğretti.
+
+Belki de en önemlisi, üniversitede gerçek dostlukların ve dayanışmanın değerini anlamak oldu. Zor anlarda destek bulmak, başarıları paylaşmak ve birlikte büyümek, üniversite arkadaşlarımla kurduğum bağların en değerlisi oldu.</p>
+<p style="background-color:yellow">Üniversite hayatı, sadece bir diploma için değil, aynı zamanda hayatımı şekillendirmek, tutkularımı keşfetmek ve kendime olan güvenimi artırmak için bir fırsat sundu. Bu yolculukta karşılaştığım zorluklar beni sadece güçlendirdi ve geleceğe dair heyecanımı artırdı. Unutmayın ki, her anı değerlendirin ve tutkularınızı takip edin. Çünkü üniversite, sadece bir eğitim kurumu değil, aynı zamanda kişisel gelişimimizin bir parçasıdır.
+
+Umarım siz de bu yolculukta kendi başarı hikayenizi yazarsınız. Yolunuz açık olsun!</p>
+
+
+
+<img src="https://www.webosco.com/wp-content/uploads/2023/05/ozel-yazilim-hizmetleri4.webp">
+</body>
+</html>
